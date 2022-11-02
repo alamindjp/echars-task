@@ -1,7 +1,9 @@
 # Instructions :
 
+* ## Start:  yarn run
+
 * ## Start:  yarn start
-* ## Build:  yarn build
+* ## Build:  yarn run build
 
 # Screenshot
 ### Screenshot 1
